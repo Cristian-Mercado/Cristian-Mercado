@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristian-Mercado
 - 👀 I’m interested in front end programming
-- 🌱 I’m currently working on an Intelligent System/Robot
+- 🌱 I’m currently working on an a Python based Intelligent System
 - 🤝 I’m open to collaborate
 - 📫 Email: cm9941268@gmail.com
 
